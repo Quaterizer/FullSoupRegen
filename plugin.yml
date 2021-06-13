@@ -1,0 +1,11 @@
+---
+name: FullSoupRegen
+main: Quaterize\Soupregen\Main
+author: Rushil13579
+version: 1.5.0
+api: 3.19.0
+permissions:
+  souppvp.soups:
+    description: Allows a player to use the refill command!
+    default: true
+...

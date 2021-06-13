@@ -1,0 +1,9 @@
+inv-full: "§cYour inventory is full"
+
+refilled-msg: "§aYou have been refilled! Added {count} soups"
+
+id: "282:0"
+
+console: "Use in game only!"
+
+no-permission: "Dont use"
