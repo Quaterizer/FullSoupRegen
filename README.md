@@ -13,4 +13,8 @@ player is have 2Healt<br/>
 ex: health: "5"
 player have 5Health
 
+# Commands
+• /soups Add soup to inventory<br/>
+• /soupsui Open give soup ui(In next update
+
 <img src="https://hywikis.com/skyblock/images/b/b7/Magical_Mushroom_Soup.png">
